@@ -1,0 +1,9 @@
+[package]
+name = "accountant"
+version = "0.1.0"
+authors = ["Noah Ryan <noah.m.ryan@nasa.gov>"]
+edition = "2018"
+
+[dependencies]
+csv = "1.0"
+
